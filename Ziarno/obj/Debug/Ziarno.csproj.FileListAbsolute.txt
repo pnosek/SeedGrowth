@@ -1,0 +1,18 @@
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\bin\Debug\Ziarno.exe.config
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\bin\Debug\Ziarno.exe
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\bin\Debug\Ziarno.pdb
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\obj\Debug\Ziarno.csprojResolveAssemblyReference.cache
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\obj\Debug\Ziarno.Form1.resources
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\obj\Debug\Ziarno.Properties.Resources.resources
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\obj\Debug\Ziarno.csproj.GenerateResource.Cache
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\obj\Debug\Ziarno.exe
+\\krywan\redirecteduserfolders\pnosek\documents\visual studio 2015\Projects\Ziarno\Ziarno\obj\Debug\Ziarno.pdb
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\bin\Debug\Ziarno.exe.config
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\bin\Debug\Ziarno.exe
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\bin\Debug\Ziarno.pdb
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\obj\Debug\Ziarno.Form1.resources
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\obj\Debug\Ziarno.Properties.Resources.resources
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\obj\Debug\Ziarno.csproj.GenerateResource.Cache
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\obj\Debug\Ziarno.exe
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\obj\Debug\Ziarno.pdb
+C:\Users\nskpi\Desktop\Ziarno\Ziarno\obj\Debug\Ziarno.csprojResolveAssemblyReference.cache
